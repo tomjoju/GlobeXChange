@@ -1,7 +1,7 @@
 # GlobeXChange
 Website built from ReactJS and Firebase for NUS Orbital 
 
-# Team Name: Twenty-Six
+## Team Name: Twenty-Six
 
 Proposed Level of Achievement: **Project Gemini**
 
